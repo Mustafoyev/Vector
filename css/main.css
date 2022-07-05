@@ -864,6 +864,10 @@ img {
   color: #666666;
 }
 
+.email__img {
+  margin-right: 7px;
+}
+
 .email__text {
   display: inline-block;
   font-weight: 400;
